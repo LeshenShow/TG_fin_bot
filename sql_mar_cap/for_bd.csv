@@ -1,0 +1,67 @@
+ABRD,Сonsumer,Абрау-Дюрсо,,LESHEN,      0.0000000,      3.0000000
+AFKS,Finance,АФК Система,MOEX,LESHEN,      1.0000000,      3.0000000
+AFLT,Dev&Tran,Аэрофлот,MOEX,,      1.0000000,      0.0000000
+AGRO,Сonsumer,РусАгро,,LESHEN,      0.0000000,      1.0000000
+AKRN,Chemistry,Акрон,,LESHEN,      0.0000000,      1.7500000
+ALRS,Met&Min,АЛРОСА,MOEX,LESHEN,      1.0000000,      1.0000000
+AQUA,Сonsumer,Аквакультура,,LESHEN,      0.0000000,      1.0000000
+BELU,Сonsumer,Белуга,,LESHEN,      0.0000000,      1.0000000
+BSPB,Finance,Банк СПБ,,LESHEN,      0.0000000,      1.0000000
+CBOM,Finance,МКБ,MOEX,,      1.0000000,      0.0000000
+CHMF,Met&Min,Северсталь,MOEX,LESHEN,      1.0000000,      1.0000000
+DSKY,Сonsumer,Детский мир,MOEX,,      1.0000000,      0.0000000
+ENRU,Met&Min,ЭН+,MOEX,,      1.0000000,      0.0000000
+ETLN,Dev&Tran,Эталон,,LESHEN,      0.0000000,      1.0000000
+FESH,Dev&Tran,ДВМП,,LESHEN,      0.0000000,      1.0000000
+FIVE,Сonsumer,X5 Retail,MOEX,,      1.0000000,      0.0000000
+FIXP,Сonsumer,Fixprice,MOEX,LESHEN,      0.5000000,      1.0000000
+GAZP,Oil&Gas,Газпром,MOEX,LESHEN,      0.4877571,      1.0000000
+GCHE,Сonsumer,Черкизово,,LESHEN,      0.0000000,      10.0000000
+GLTR,Dev&Tran,Globaltrans,MOEX,,      1.0000000,      0.0000000
+GMKN,Met&Min,ГМК Норикель,MOEX,LESHEN,      0.9803429,      1.2500000
+GTRK,Dev&Tran,ГлобалТрак,,LESHEN,      0.0000000,      1.0000000
+HHRU,IT&Telecom,Headhunter,MOEX,,      0.1200000,      0.0000000
+HYDR,Electro,РусГидро,MOEX,,      1.0000000,      0.0000000
+INGR,Dev&Tran,Инград,,LESHEN,      0.0000000,      1.0000000
+IRAO,Electro,ИНТЕР РАО,MOEX,,      1.0000000,      0.0000000
+KAZT,Chemistry,КуйбышевАзот ,,LESHEN,      0.0000000,      1.0000000
+KMAZ,Сonsumer,Камаз,,LESHEN,      0.0000000,      1.0000000
+LENT,Сonsumer,Лента,,LESHEN,      0.0000000,      1.0000000
+LKOH,Oil&Gas,Лукойл,MOEX,LESHEN,      0.9803429,      0.1750000
+MAGN,Met&Min,ММК,MOEX,LESHEN,      1.0000000,      1.0000000
+MDMG,Сonsumer,Мать и дитя,,LESHEN,      0.0000000,      1.0000000
+MGNT,Сonsumer,Магнит,MOEX,LESHEN,      1.0000000,      2.0000000
+MOEX,Finance,МосБиржа,MOEX,LESHEN,      1.0000000,      1.2500000
+MTSS,IT&Telecom,МТС,MOEX,,      1.0000000,      0.0000000
+MVID,Сonsumer,МВидео,,LESHEN,      0.0000000,      1.0000000
+NFAZ,Dev&Tran,НефАЗ,,LESHEN,      0.0000000,      1.0000000
+NKHP,Dev&Tran,НКХП,,LESHEN,      0.0000000,      1.0000000
+NKNC,Chemistry,НижКамНефХим,,LESHEN,      0.0000000,      1.0000000
+NLMK,Met&Min,НЛМК,MOEX,LESHEN,      1.0000000,      1.0000000
+NMTP,Dev&Tran,НМТП,,LESHEN,      0.0000000,      1.0000000
+NVTK,Oil&Gas,Новатэк,MOEX,LESHEN,      0.9803429,      0.8000000
+OZON,Сonsumer,OZON,MOEX,LESHEN,      1.0000000,      1.0000000
+PHOR,Chemistry,ФосАгро,MOEX,LESHEN,      1.0000000,      1.7500000
+PIKK,Dev&Tran,ПИК,MOEX,LESHEN,      1.0000000,      2.5000000
+PLZL,Met&Min,Полюс,MOEX,LESHEN,      1.0000000,      1.0000000
+POGR,Met&Min,Петропавловск,MOEX,,      1.0000000,      0.0000000
+POLY,Met&Min,Polymetal,MOEX,,      1.0000000,      0.0000000
+POSI,IT&Telecom,Позитив,,LESHEN,      0.0000000,      15.0000000
+RENI,Finance,Ренисанс,,LESHEN,      0.0000000,      1.0000000
+ROLO,Met&Min,РусОлово,,LESHEN,      0.0000000,      1.0000000
+ROSN,Oil&Gas,РосНефть,MOEX,LESHEN,      1.0000000,      0.7500000
+RTKM,IT&Telecom,РосТелеком,MOEX,LESHEN,      1.0000000,      1.0000000
+RUAL,Met&Min,РусАл,MOEX,LESHEN,      1.0000000,      1.0000000
+RUGR,Сonsumer,РусГрейн,,LESHEN,      0.0000000,      5.0000000
+SBER,Finance,Сбер,MOEX,LESHEN,      0.9803429,      1.7500000
+SELG,Met&Min,Селигдар,,LESHEN,      0.0000000,      5.0000000
+SGZH,Met&Min,Сегежа,,LESHEN,      0.0000000,      5.0000000
+SIBN,Oil&Gas,ГазпромНефть,,LESHEN,      0.0000000,      0.7500000
+SMLT,Dev&Tran,Самолет,,LESHEN,      0.0000000,      2.0000000
+SNGS,Oil&Gas,СургутНефтеГаз,MOEX,,      1.0000000,      0.0000000
+TATN,Oil&Gas,ТатНефть,MOEX,LESHEN,      1.0000000,      0.1500000
+TCSG,Finance,Тинькофф,MOEX,,      1.0000000,      0.0000000
+TRNFP,Oil&Gas,ТрансНефть,MOEX,,      1.0000000,      0.0000000
+VKCO,IT&Telecom,VK.com,MOEX,,      1.0000000,      0.0000000
+VTBR,Finance,ВТБ,MOEX,LESHEN,      1.0000000,      1.0000000
+YNDX,IT&Telecom,Яндекс,MOEX,LESHEN,      1.0000000,      1.0000000
