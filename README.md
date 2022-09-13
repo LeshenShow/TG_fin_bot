@@ -1,8 +1,13 @@
 Установка программы: $ git clone https://github.com/LeshenShow/TG_fin_bot.git
+
 Установка библиотек: pip install -r requirements.txt
+
 config/my_token.txt = 'TOKEN'
+
 Обновление базы данных: $ python sql_stock_bd.py
+
 Запуск: $ python main.py
+
 
 Tg_fin_bot
 Возможности бота:
