@@ -31,7 +31,8 @@ Eninvs: https://eninvs.com/
 """
 
 # ~~~ Получение данных ~~~
-file = 'C:/My projects/TgBot_v4/sql_mar_cap/stock_bd.db'
+# file = 'C:/My projects/TgBot_v4/sql_mar_cap/stock_bd.db'
+file = '../sql_mar_cap/stock_bd.db'
 with sq.connect(file) as test:
     cur = test.cursor()
     moex = [list(_) for _ in cur.execute("SELECT tick, sector, name, moex_share "
@@ -54,3 +55,4 @@ def new_list(arg):
 
 
 list_index = new_list(moex)
+print(list_index)
