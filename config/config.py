@@ -55,4 +55,3 @@ def new_list(arg):
 
 
 list_index = new_list(moex)
-print(list_index)
