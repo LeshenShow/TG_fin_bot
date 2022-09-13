@@ -2,3 +2,8 @@
 /shelf/
 /workspace.xml
 /.idea/
+sql_mar_cap/**/*.db
+sql_mar_cap/**/*.csv
+files/**/*.txt
+files/**/*.png
+.idea/**/*.xml
