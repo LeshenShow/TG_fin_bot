@@ -1,4 +1,5 @@
         Tg_fin_bot
+        
     
     Установка программы:
 Скачивание с git: $ git clone https://github.com/LeshenShow/TG_fin_bot.git
