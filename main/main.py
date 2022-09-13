@@ -1,13 +1,13 @@
 import telebot
 from telebot import types
-from config.config import token, list_index, text_info
+from config.config import my_token, list_index, text_info
 from moex_stock_class.short_info import ShortInfoForStock as ShIFS
 from inlinekb.callback_class import CallbackInfoForStock as CbIFS
 from reply_keyboard_button_stock.rkb_stock_list import add_stock
 from charts.chart_for_cb import chart_top_10, chart_any, chart_stock_vs_snp
 from currency.currency_class import CurrencyParser
 
-bot = telebot.TeleBot(token)
+bot = telebot.TeleBot(my_token)
 
 
 @bot.message_handler(commands=['info'])
