@@ -1,4 +1,5 @@
-Установка программы: $ git clone https://github.com/LeshenShow/TG_fin_bot.git
+    Установка программы:
+Скачивание с git: $ git clone https://github.com/LeshenShow/TG_fin_bot.git
 
 Установка библиотек: pip install -r requirements.txt
 
@@ -8,8 +9,7 @@ config/my_token.txt = 'TOKEN'
 
 Запуск: $ python main.py
 
-
-Tg_fin_bot
+    Tg_fin_bot
 Возможности бота:
 
     1. Конвертация валют с сайта МосБиржи, либо Yahoo, если сервер не ответит.
