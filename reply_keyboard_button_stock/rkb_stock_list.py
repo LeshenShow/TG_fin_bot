@@ -1,7 +1,7 @@
 list_stock = ['IMOEX', 'ROSN', 'OZON', 'GMKN', 'NVTK', 'PIKK', 'SBER']
 
 
-def add_stock(value):
+def add_stock(value: str) -> list:
     # Создается список по условию + перезаписывается по новым запросам, IMOEX остается, остальные форматируются
     if value not in 'IMOEX':
         list_stock.insert(1, value)

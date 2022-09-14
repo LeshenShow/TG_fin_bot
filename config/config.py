@@ -1,5 +1,6 @@
 import sqlite3 as sq
 from os import getenv
+
 with open('../config/my_token.txt', 'r') as my_token:
     my_token = my_token.readline()
 my_token = my_token if my_token != 0 else getenv("BOT_TOKEN")
@@ -42,7 +43,7 @@ with sq.connect(file) as test:
                                          "ORDER BY moex_share DESC").fetchall()]
 
 
-def new_list(arg):
+def new_list(arg: list) -> tuple:
     dop_info = ['Ticker  Sector      Name            Share,%']
     for y in arg:
         y[0] = y[0].ljust(8, ' ')
