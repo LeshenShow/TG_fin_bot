@@ -7,7 +7,7 @@ class CurrencyParser:
     moex_dict = {"$": 'USD000UTSTOM', "€": 'EUR_RUB__TOM', "¥": 'CNYRUB_TOM', 'r': 'EUR_RUB__TOM'}
     yahoo_dict = {"$": "RUB=X", "€": "EURRUB=X", "¥": "CNYRUB=X"}
 
-    def __init__(self, text):
+    def __init__(self, text: str):
         self.currency = text[-1]
         val = text[:-1]
         self.val = 1 if val in ['', 'eu'] else val.strip().strip('eu').strip('!')
