@@ -1,0 +1,5 @@
+bs4==0.0.1
+pandas==1.4.2
+yfinance==0.1.70
+telebot==0.0.4
+matplotlib==3.5.1
