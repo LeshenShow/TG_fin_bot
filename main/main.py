@@ -6,8 +6,8 @@ from inlinekb.callback_class import CallbackInfoForStock as CbIFS
 from reply_keyboard_button_stock.rkb_stock_list import add_stock
 from charts.chart_for_cb import chart_top_10, chart_any, chart_stock_vs_snp
 from currency.currency_class import CurrencyParser
-
-bot = telebot.TeleBot(my_token)
+import config.config
+bot = telebot.TeleBot(config.config.my_token)
 
 
 @bot.message_handler(commands=['info'])

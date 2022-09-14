@@ -1,10 +1,10 @@
 import sqlite3 as sq
 from os import getenv
-with open('my_token.txt', 'r') as my_token:
+with open('../config/my_token.txt', 'r') as my_token:
     my_token = my_token.readline()
-my_token = my_token if my_token == 0 else getenv("BOT_TOKEN")
-
-text_info = f"""Возможности бота:
+my_token = my_token if my_token != 0 else getenv("BOT_TOKEN")
+text_info = f"""
+Возможности бота:
     1. Конвертация валют с сайта МосБиржи, либо Yahoo, если сервер не ответит.
 Пример: пишем в следующем виде без кавычек '$', '10$', '322.58$' и т.д. получим курс $ помноженный на значение.
 Отправляем 10$ Получаем 607.52 руб. 
@@ -33,7 +33,6 @@ Eninvs: https://eninvs.com/
 """
 
 # ~~~ Получение данных ~~~
-# file = 'C:/My projects/TgBot_v4/sql_mar_cap/stock_bd.db'
 file = '../sql_mar_cap/stock_bd.db'
 with sq.connect(file) as test:
     cur = test.cursor()
